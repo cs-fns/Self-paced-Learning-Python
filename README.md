@@ -1,2 +1,2 @@
-# Self-paced-Python
+# Self-paced Learning Python
  
